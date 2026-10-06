@@ -34,10 +34,14 @@ white, seafoam code, soft layered cards and one signal orange for what stands ou
 
 ## Installation
 
-**From the community directory:** Settings → Appearance → Themes → Manage, search for
-**Borozdov Wire**, then **Install and use**.
+**From the community directory, as a variant:** this theme ships inside **Borozdov
+Utility**. Install Borozdov Utility under Settings → Appearance → Themes → Manage, then
+the [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) plugin, and
+choose **Wire** under Style Settings → Borozdov Utility → Variant. The variant brings this
+theme's palette, type and corners; its own layout, and its embedded font if it has one,
+come with the full theme below.
 
-**By hand:** download `manifest.json` and `theme.css` from the [latest
+**The full theme, by hand:** download `manifest.json` and `theme.css` from the [latest
 release](https://github.com/borozdov-obsidian-themes/wire/releases/latest) into
 `<vault>/.obsidian/themes/Borozdov Wire/`, then choose Borozdov Wire under Settings →
 Appearance → Themes.
@@ -60,5 +64,4 @@ MIT — see [LICENSE](LICENSE).
 гроссбух в прохладном рассвете, и тёмный «Глубина» — тот же гроссбух в глубокой морской
 воде. Тёмно-синие чернила на облачно-белом, код цвета морской пены (моноширинный Wire Mono
 на основе Source Code Pro), мягкие парящие карточки и один сигнальный оранжевый.
-Устанавливается из каталога: Настройки → Оформление → Темы → Настроить → Borozdov Wire →
-Установить и применить.
+В каталоге тема живёт вариантом Borozdov Utility: установите Borozdov Utility и плагин Style Settings, затем выберите Wire в Style Settings → Borozdov Utility → Variant. Целиком, со своей вёрсткой, тема ставится вручную из последнего релиза репозитория.
